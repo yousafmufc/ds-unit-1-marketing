@@ -35,7 +35,9 @@ DATA DICTIONARY
              6. $30,000 to $39,999
              7. $40,000 to $49,999
              8. $50,000 to $74,999
-             9. $75,000 or more			  2    SEX
+             9. $75,000 or more
+			 
+ 2    SEX
              1. Male
              2. Female
   3    MARITAL STATUS
@@ -58,7 +60,8 @@ DATA DICTIONARY
              3. Graduated high school
              4. 1 to 3 years of college
              5. College graduate
-             6. Grad Study
+             6. Grad Study
+
  6    OCCUPATION
              1. Professional/Managerial
              2. Sales Worker
@@ -88,7 +91,9 @@ DATA DICTIONARY
              6. Six
              7. Seven
              8. Eight
-             9. Nine or more 10    PERSONS IN HOUSEHOLD UNDER 18
+             9. Nine or more
+
+ 10    PERSONS IN HOUSEHOLD UNDER 18
              0. None
              1. One
              2. Two
